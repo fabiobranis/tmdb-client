@@ -1,0 +1,7 @@
+#Just a .env boilerplate - don't commit the .env file
+TMDB_URL=https://api.themoviedb.org/3
+TMDB_TOKEN=????
+IMG_URL=https://image.tmdb.org/t/p/w500
+DB_CONNECTION=sqlite
+DB_DATABASE=db.sqlite
+DB_FOREIGN_KEYS=true
